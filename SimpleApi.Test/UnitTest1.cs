@@ -8,6 +8,7 @@ namespace SimpleApi.Test
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
